@@ -214,54 +214,44 @@
             </div>
             <div class="col-xl-8 col-12">
                 <div class="row">
-                    <div class="col-md-6 col-12">
+                    <div class="col-md-12 col-12">
                         <div class="single-features-item">
                             <div class="icon">
                                 <i class="flaticon-speech-bubble"></i>
                             </div>
                             <div class="content">
-                                <h3>IT Consultancy</h3>
-                                <p>Faster & Smarter Solutions</p>
+                                <h3>Консультирование</h3>
+                                <p>Подбор оборудования под ваши задачи</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-12">
+                    <div class="col-md-12 col-12">
                         <div class="single-features-item">
                             <div class="icon">
                                 <i class="flaticon-unlock"></i>
                             </div>
                             <div class="content">
-                                <h3>Cyber Security</h3>
-                                <p>Faster & Smarter Solutions</p>
+                                <h3>Сетевая безопасность</h3>
+                                <p>Профессиональная настройка сетевого оборудования</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-12">
+                    <div class="col-md-12 col-12">
                         <div class="single-features-item">
                             <div class="icon">
                                 <i class="flaticon-mobile-app"></i>
                             </div>
                             <div class="content">
-                                <h3>Development</h3>
-                                <p>Faster & Smarter Solutions</p>
+                                <h3>Разработка</h3>
+                                <p>Архитектурная разработка сети. Настройка пользовательских прав</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-12">
-                        <div class="single-features-item">
-                            <div class="icon">
-                                <i class="flaticon-joystick"></i>
-                            </div>
-                            <div class="content">
-                                <h3>UX/UI Strategy</h3>
-                                <p>Faster & Smarter Solutions</p>
-                            </div>
-                        </div>
-                    </div>
+
                     <div class="col-12">
                         <div class="feature-cta bg-cover bg-center text-white" style="background-image: url('assets/img/home1/wave.png')">
-                            <p>Sed perspiciatis unde omnis iste natus error voluptatem accusantium
-                                doloremque laudantium totam rem aperiam eaque quae</p>
+                            <p>«Вместо того, чтобы бояться кибератак или игнорировать их, обеспечьте свою киберустойчивость к ним».</p>
+                            <small>― Стефан Наппо</small>
                         </div>
                     </div>
                 </div>
@@ -275,21 +265,20 @@
         <div class="row">
             <div class="col-lg-6 col-12 pr-lg-5 order-2 order-lg-1 mt-5 mt-lg-0">
                 <div class="section-title mb-30">
-                    <p>About Company</p>
-                    <h1>Get’s IT Solutions For <br>
-                        Expert Consultants</h1>
+                    <p>Обо мне</p>
+                    <h1>Получите оперативно<br>
+                        экспертное решение</h1>
                 </div>
 
-                <p class="pr-5">Sed ut perspiciatis unde omnis natus error sit voluptatem accusa ntium doloremque laudantium totam rem aperiamea queipsa quae abillo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                <p class="pr-5">Васин Сергей &mdash; сертифицированный специалист по сетевому оборудованию Mikrotik. Более 10 лет практики в сфере сетевого администрирования промышленной сферы.</p>
 
                 <div class="about-icon-box">
                     <div class="icon">
                         <i class="fal fa-users"></i>
                     </div>
                     <div class="content">
-                        <h3>Professinoal Consultants</h3>
-                        <p>Quis autem vel eum iure reprehenderit
-                            quin voluptate velit esse quam</p>
+                        <h3>Сертификация компании Mikrotik</h3>
+                        <p>Это не просто слова, а закрепленный опыт экзаменами от компании производителя Mirkotik</p>
                     </div>
                 </div>
             </div>
