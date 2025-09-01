@@ -4220,7 +4220,7 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
 }
 
 /* ---------------------------------
-    Offset Canvas Menu Style
+    Offset Canvas Menu Style 
 ------------------------------------*/
 .offset-menu {
   position: fixed;
@@ -4362,7 +4362,7 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   position: absolute;
   left: 0;
   top: 0;
-  background-image: url("assets/img/slide_bg_circle.png");
+  background-image: url("../img/slide_bg_circle.png");
   width: 60%;
   height: 100%;
   content: "";
@@ -5284,7 +5284,7 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   position: absolute;
   left: 45px;
   top: 0;
-  background-image: url("assets/img/dot-circle.png");
+  background-image: url("../img/dot-circle.png");
   width: 200px;
   height: 200px;
   content: "";
