@@ -13,4 +13,9 @@ class PersonalController extends Controller
         return "hello my master";
     }
 
+    public function bible()
+    {
+
+    }
+
 }
