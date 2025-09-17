@@ -13,3 +13,4 @@ Route::get('/about', function () {
 
 Route::get('/personal', [PersonalController::class, 'index']);
 Route::get('/blog', [BlogController::class, 'index']);
+Route::get('/blog/{slug}/{slug2}', [BlogController::class, 'getPost']);

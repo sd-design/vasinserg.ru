@@ -13,5 +13,10 @@ class BlogController extends Controller
         return "In the future will be my Blog";
     }
 
+    public function getPost($slug, $slug2)
+    {
+        return $slug."<br>".$slug2; //Можно дробить несколько параметров URL
+    }
+
 
 }
